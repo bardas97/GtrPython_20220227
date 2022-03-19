@@ -1,0 +1,3 @@
+Bu bir stout mesajıdır.merhaba
+merhaba
+hata mesajı:  1.0
